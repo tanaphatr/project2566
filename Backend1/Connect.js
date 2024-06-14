@@ -4,7 +4,7 @@ const config = ({
     user: 'admin',
     password: 'password',
     server: 'LAPTOP-369163PM',
-    database: 'MusslementorDB',
+    database: 'Preproject',
     driver: 'msnodesqlv8',
     options: {
       encrypt: true,
